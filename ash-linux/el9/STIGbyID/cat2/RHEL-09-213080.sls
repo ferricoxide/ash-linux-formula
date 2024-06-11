@@ -1,4 +1,4 @@
-# Ref Doc:    STIG - RHEL 8 v1r9
+# Ref Doc:    STIG - RHEL 9 v1r3
 # Finding ID: V-257811
 # Rule ID:    SV-257811r942979_rule
 # STIG ID:    RHEL-09-213080
@@ -21,8 +21,8 @@
 #     - SP 800-53A: SC-2.1
 #     - SP 800-53 Rev 4: CM-6 b
 #     - SP 800-53 Rev 4: SC-2
-#     - SP 800-53 Rev 5: CM-6 b)
-#     - SP 800-53 Rev 5: SC-2)
+#     - SP 800-53 Rev 5: CM-6 b
+#     - SP 800-53 Rev 5: SC-2
 #
 ###########################################################################
 {%- set stig_id = 'RHEL-09-213080' %}
